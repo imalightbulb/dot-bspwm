@@ -1,0 +1,6 @@
+2021/08/25-16:45:44.653 1bf96 Creating DB /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb since it was missing.
+2021/08/25-16:45:44.864 1bf96 Reusing MANIFEST /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-16:46:14.953 1bf96 Level-0 table #5: started
+2021/08/25-16:46:15.009 1bf96 Level-0 table #5: 1316 bytes OK
+2021/08/25-16:46:15.055 1bf96 Delete type=0 #3
+2021/08/25-16:46:15.056 1bf96 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

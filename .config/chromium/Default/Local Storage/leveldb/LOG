@@ -1,0 +1,12 @@
+2021/08/24-19:22:29.940 3 Reusing MANIFEST /home/lightbulb/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/08/24-19:22:29.953 3 Recovering log #4
+2021/08/24-19:22:29.957 3 Reusing old log /home/lightbulb/.config/chromium/Default/Local Storage/leveldb/000004.log 
+2021/08/24-19:25:11.824 3 Level-0 table #8: started
+2021/08/24-19:25:12.337 3 Level-0 table #8: 89304 bytes OK
+2021/08/24-19:25:13.322 3 Delete type=0 #4
+2021/08/24-19:53:50.995 e Level-0 table #10: started
+2021/08/24-19:53:51.156 e Level-0 table #10: 18172 bytes OK
+2021/08/24-19:53:51.200 e Delete type=0 #7
+2021/08/24-19:59:33.906 e Level-0 table #12: started
+2021/08/24-19:59:34.014 e Level-0 table #12: 88494 bytes OK
+2021/08/24-19:59:34.052 e Delete type=0 #9

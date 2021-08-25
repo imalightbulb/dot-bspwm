@@ -1,0 +1,35 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "assets/icon19.png",
+         "38": "assets/icon38.png"
+      }
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "chromeos": "Alt+P",
+            "linux": "Alt+P",
+            "mac": "Alt+P",
+            "windows": "Alt+P"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "icons": {
+      "128": "assets/icon128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlbBJYXSZbg92LNp17IwLLCu5t9jte2PQhsUtjzWA3pIw5YfcbQufzHLBbIh2r6ZnYi63DVSWTw8Oye5/mRJbNUelfD6oNjpaLxE3hYU2eKxQlXDZ18ES/QByeq8+Fns8yJxv/HGO2bns0tVj3cq4GZSw5B9zd6K3RPf/w3lPUqJwF4QGr2vactPPzhQgS8nNl99+431HLaMGwpu7+ukkYKDLa+/WLaPYWzkEA2ejkJpG8OUBgfZRGQfoBiDw1bzEbfO/41dWIyjDB6D1chyOzzQq7fZy8fFMfWSv7g//FkClt7/X8b+tJDMtF4JhUTVN6nVPSWYlnHHKt70Jwsg8YwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "69.0.3483.0",
+   "name": "__MSG_appName__",
+   "permissions": [ "\u003Call_urls>", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.6"
+}

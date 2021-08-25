@@ -1,0 +1,35 @@
+[Desktop Entry]
+Name=Marvin (1.60.2)
+Exec=/home/lightbulb/Applications/Marvin-1.60.2_f06dbff974c5d9fd62b8f63a781d612b.AppImage --no-sandbox %U
+Terminal=false
+Type=Application
+Icon=appimagekit_bce50df9dda80026ca16a04d22b818e6_marvin
+StartupWMClass=Marvin
+X-AppImage-Version=1.60.2
+Comment=Amazing Marvin desktop app
+Categories=Office;
+
+TryExec=/home/lightbulb/Applications/Marvin-1.60.2_f06dbff974c5d9fd62b8f63a781d612b.AppImage
+X-AppImage-Old-Icon=marvin
+X-AppImage-Old-Name=Marvin
+X-AppImage-Identifier=bce50df9dda80026ca16a04d22b818e6
+Actions=Remove;
+X-AppImageLauncher-Version=2.2.0 (git commit 0f91801), built on 2021-08-25 03:47:21 UTC
+
+[Desktop Action Remove]
+Name=Remove AppImage from system
+Icon=AppImageLauncher
+Exec=/usr/lib/appimagelauncher/remove "/home/lightbulb/Applications/Marvin-1.60.2_f06dbff974c5d9fd62b8f63a781d612b.AppImage"
+Name[ast]=Desaniciar AppImage del sistema
+Name[cs]=Odebrat AppImage ze systému
+Name[de]=AppImage vom System entfernen
+Name[en]=Remove AppImage from system
+Name[es]=Eliminar Appimage del Sistema
+Name[fr]=Supprimer l'AppImage du système
+Name[it]=Rimuovi AppImage dal sistema
+Name[nl]=AppImage deïnstalleren
+Name[pl]=Usuń AppImage z systemu
+Name[pt]=Remover AppImage do sistema
+Name[pt_PT]=Remover AppImage do sistema
+Name[ru]=Удалить AppImage из системы
+Name[zh_Hans]=从系统中移除 AppImage

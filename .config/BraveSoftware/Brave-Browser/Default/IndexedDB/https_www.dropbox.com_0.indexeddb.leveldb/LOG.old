@@ -1,0 +1,6 @@
+2021/08/25-12:11:29.112 194d6 Creating DB /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2021/08/25-12:11:29.281 194d6 Reusing MANIFEST /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-12:12:14.688 194d6 Level-0 table #5: started
+2021/08/25-12:12:14.776 194d6 Level-0 table #5: 157823 bytes OK
+2021/08/25-12:12:14.824 194d6 Delete type=0 #3
+2021/08/25-12:12:14.824 194d6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

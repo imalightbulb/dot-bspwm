@@ -1,0 +1,172 @@
+{
+   "checksum": "10b62d8d4c82739d5e6e13019e021abf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13266415583000000",
+               "guid": "78b6321c-82ea-43fe-9d54-e78d2b954ce3",
+               "id": "6",
+               "name": "课程",
+               "type": "url",
+               "url": "https://classroom.google.com/u/1/h"
+            }, {
+               "date_added": "13266465359000000",
+               "guid": "6380105f-031c-44e9-8b59-3b986bf283b1",
+               "id": "7",
+               "name": "文件夹 - Google 云端硬盘",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/1/folders/1jq_yM0hzH5C_Pe0NUsl8ooYq0kSy4B0t"
+            }, {
+               "date_added": "13266681817000000",
+               "guid": "222c800e-b006-481d-8e51-800ef3216c8b",
+               "id": "8",
+               "name": "文学创作社 Creativity Writing Society - Google 云端硬盘",
+               "type": "url",
+               "url": "https://drive.google.com/drive/u/1/folders/1TzHY_wfan8zVDtqOif53Hbf2LOMdAXs6?hl=en"
+            } ],
+            "date_added": "13274323873878111",
+            "date_modified": "0",
+            "guid": "08c05400-c52c-441d-87f9-90cdae888fc0",
+            "id": "5",
+            "name": "School",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13266418792000000",
+               "guid": "b2494668-37b0-46f7-92e5-7f2fced1110d",
+               "id": "10",
+               "name": "Orbit Documentation",
+               "type": "url",
+               "url": "https://docs.withorbit.com/"
+            } ],
+            "date_added": "13274323873922453",
+            "date_modified": "0",
+            "guid": "38bce5dc-290e-4929-a4e5-73a6c8a7034f",
+            "id": "9",
+            "name": "Education",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13266488114000000",
+               "guid": "01d23e3e-4a11-4243-b2bb-394639e2c17d",
+               "id": "12",
+               "name": "microsoft/vscode-extension-samples: Sample code illustrating the VS Code extension API.",
+               "type": "url",
+               "url": "https://github.com/microsoft/vscode-extension-samples"
+            } ],
+            "date_added": "13274323873923646",
+            "date_modified": "0",
+            "guid": "5bef9610-241c-4c0c-9ccf-3e5c56cbcf7f",
+            "id": "11",
+            "name": "Programming",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13266762853000000",
+               "guid": "8a282be1-5ae8-4b88-af35-c364701b62b5",
+               "id": "14",
+               "name": "Terranion",
+               "type": "url",
+               "url": "https://yal.cc/r/terranion/"
+            } ],
+            "date_added": "13274323873924192",
+            "date_modified": "0",
+            "guid": "38efbdfe-c989-48cb-943c-e374b70c3062",
+            "id": "13",
+            "name": "Game",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13270208756000000",
+               "guid": "cfdb4c48-1cb7-4658-8796-84b0eff3f9b1",
+               "id": "16",
+               "name": "command-not-found.com",
+               "type": "url",
+               "url": "https://command-not-found.com/"
+            }, {
+               "date_added": "13270700998000000",
+               "guid": "5db57a57-1b73-42bc-8244-9cc3f7a1c7e4",
+               "id": "17",
+               "name": "唱歌學日語-日語教室-MARUMARU",
+               "type": "url",
+               "url": "https://www.jpmarumaru.com/tw/jpsonglist.asp"
+            }, {
+               "date_added": "13273638455000000",
+               "guid": "f66b721e-2810-44f3-a047-9aa583ac962e",
+               "id": "18",
+               "name": "",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            } ],
+            "date_added": "13274323873924682",
+            "date_modified": "0",
+            "guid": "32f2c0fc-3f88-4e1d-98f2-850204f1e24f",
+            "id": "15",
+            "name": "Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13273589970000000",
+               "guid": "a711522e-1d6e-44dd-a3ea-166ba78160f5",
+               "id": "20",
+               "name": "How to become a GOOD Theoretical Physicist",
+               "type": "url",
+               "url": "https://webspace.science.uu.nl/~gadda001/goodtheorist/primarymathematics.html"
+            }, {
+               "date_added": "13273978105000000",
+               "guid": "30e0906e-dae9-4b9d-8019-6779bcc5cd18",
+               "id": "21",
+               "name": "Kevin Zhou",
+               "type": "url",
+               "url": "https://knzhou.github.io/"
+            }, {
+               "date_added": "13273677834000000",
+               "guid": "5fd19bdc-8fed-487b-b760-f479af0995f8",
+               "id": "22",
+               "name": " Snip Notes",
+               "type": "url",
+               "url": "https://snip.mathpix.com/"
+            }, {
+               "date_added": "13273754104000000",
+               "guid": "be0c2753-dd9f-416a-aaab-6201b9a1502a",
+               "id": "23",
+               "name": "real analysis - References for multivariable calculus - Mathematics Stack Exchange",
+               "type": "url",
+               "url": "https://math.stackexchange.com/questions/43290/references-for-multivariable-calculus"
+            } ],
+            "date_added": "13274323873925134",
+            "date_modified": "0",
+            "guid": "6494966f-38f2-41b7-8135-871d748be253",
+            "id": "19",
+            "name": "Math and Physics",
+            "type": "folder"
+         } ],
+         "date_added": "13274320668327715",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13274320668327719",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13274320668327722",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

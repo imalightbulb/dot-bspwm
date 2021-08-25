@@ -1,0 +1,7 @@
+2021/08/25-15:59:27.040 1b355 Reusing MANIFEST /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-15:59:27.040 1b355 Recovering log #3
+2021/08/25-15:59:27.076 1b355 Reusing old log /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2021/08/25-16:00:21.065 1b51a Level-0 table #5: started
+2021/08/25-16:00:21.143 1b51a Level-0 table #5: 204457 bytes OK
+2021/08/25-16:00:21.186 1b51a Delete type=0 #3
+2021/08/25-16:00:21.187 1b51a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

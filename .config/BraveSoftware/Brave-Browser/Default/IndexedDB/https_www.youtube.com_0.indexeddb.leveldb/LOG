@@ -1,0 +1,12 @@
+2021/08/25-21:28:24.148 2db Reusing MANIFEST /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-21:28:24.148 2db Recovering log #76
+2021/08/25-21:28:25.173 2db Reusing old log /home/lightbulb/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000076.log 
+2021/08/25-21:28:41.241 2dc Level-0 table #81: started
+2021/08/25-21:28:41.568 2dc Level-0 table #81: 1066634 bytes OK
+2021/08/25-21:28:41.880 2dc Delete type=0 #76
+2021/08/25-21:28:45.792 2a8 Compacting 1@1 + 1@2 files
+2021/08/25-21:28:46.195 2a8 Generated table #82@1: 1075 keys, 42002 bytes
+2021/08/25-21:28:46.195 2a8 Compacted 1@1 + 1@2 files => 42002 bytes
+2021/08/25-21:28:46.481 2a8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/25-21:28:46.481 2a8 Delete type=2 #78
+2021/08/25-21:28:46.481 2a8 Delete type=2 #81

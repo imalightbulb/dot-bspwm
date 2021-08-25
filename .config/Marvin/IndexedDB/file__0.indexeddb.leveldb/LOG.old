@@ -1,0 +1,17 @@
+2021/08/25-21:21:48.991 1e4df Reusing MANIFEST /home/lightbulb/.config/Marvin/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2021/08/25-21:22:22.007 1e4f0 Level-0 table #5: started
+2021/08/25-21:22:22.062 1e4f0 Level-0 table #5: 6420 bytes OK
+2021/08/25-21:22:22.140 1e4f0 Delete type=0 #3
+2021/08/25-21:22:22.144 1e4f0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/25-21:22:24.010 1e4f0 Level-0 table #7: started
+2021/08/25-21:22:24.052 1e4f0 Level-0 table #7: 212 bytes OK
+2021/08/25-21:22:24.145 1e4f0 Delete type=0 #4
+2021/08/25-21:22:24.145 1e4f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/08/25-21:22:24.145 1e4f0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x12\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 441 : 0
+2021/08/25-21:22:24.145 1e4f0 Compacting 1@1 + 1@2 files
+2021/08/25-21:22:24.186 1e4f0 Generated table #8@1: 5 keys, 230 bytes
+2021/08/25-21:22:24.186 1e4f0 Compacted 1@1 + 1@2 files => 230 bytes
+2021/08/25-21:22:24.233 1e4f0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/25-21:22:24.233 1e4f0 Delete type=2 #7
+2021/08/25-21:22:24.234 1e4f0 Delete type=2 #5
+2021/08/25-21:22:24.234 1e4f0 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x12\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 441 : 0 .. (end); will stop at (end)

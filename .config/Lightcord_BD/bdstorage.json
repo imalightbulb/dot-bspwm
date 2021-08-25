@@ -1,0 +1,70 @@
+{
+    "settings": {
+        "stable": {
+            "settings": {
+                "bda-gs-1": true,
+                "bda-gs-2": false,
+                "bda-gs-3": false,
+                "bda-gs-4": false,
+                "bda-gs-5": true,
+                "bda-gs-6": false,
+                "bda-gs-7": false,
+                "bda-gs-8": false,
+                "bda-es-0": true,
+                "bda-es-1": true,
+                "bda-es-2": true,
+                "bda-es-4": false,
+                "bda-es-6": true,
+                "bda-es-7": true,
+                "bda-gs-b": false,
+                "bda-es-8": true,
+                "bda-dc-0": false,
+                "bda-css-0": false,
+                "bda-css-1": false,
+                "bda-es-9": true,
+                "fork-dm-1": false,
+                "fork-ps-1": true,
+                "fork-ps-2": true,
+                "fork-ps-3": true,
+                "fork-ps-4": true,
+                "fork-ps-5": true,
+                "fork-ps-6": true,
+                "fork-ps-7": false,
+                "fork-es-2": false,
+                "fork-es-3": true,
+                "fork-wp-1": false,
+                "fork-wp-2": false,
+                "fork-beta": true,
+                "lightcord-1": false,
+                "lightcord-2": true,
+                "lightcord-presence-1": false,
+                "lightcord-3": false,
+                "lightcord-4": false,
+                "lightcord-5": true,
+                "lightcord-6": true,
+                "lightcord-7": false,
+                "lightcord-8": false,
+                "lightcord-9": false,
+                "lightcord-10": false,
+                "no_window_bound": false
+            },
+            "rpc": {
+                "name": "Lightcord",
+                "application_id": "711416957718757418",
+                "state": "Lightcord Client",
+                "details": "Browsing Discord",
+                "timestamps.start": 1629804635648,
+                "assets.small": null,
+                "assets.large": "712323821037682791"
+            },
+            "PluginCertifierHashes": "ZCO5eopIvbdmeEoeWiMWs00PY5b2gq9sCiD1UTSgOr5dQ36dCqQsx8rsaWrTPZuzngUVXoQNGI6rmcnmtCx8F5MaMG0Zy+MlInE9eVFUD4dc6vkTKAwuKbb5DdOIHSNpikjYqPhAJdG8bxyBNacxWZVv5MAOXS9UhQAwz4LKS7bTDuyAnHRDOciwjCmuUW6zfSac3/izlbn/6uQ0epkDyCbMipCjyvj9ym8udaIYywn7Tchd7O0CXNowjHk6GgJUigQlhQ+KcJigo0Ae/X4RniACxfX1gWR46O4JHL2cQUFAzSvDUfWDvNUclH2q4z9FUY+39NbuvMemhnDgMiX90CfWOOsf49Tk3vHu3ivneZjdO/S+RFUIjxo2UTZ4ZZRsNkGPklNV3WF52ti3gargvuSWsqdnRGY/f0Z9XXkl/stC/kDavPU/nqAeqNvGywX+WTDxHR8RdqwiDLGKQbAbMBxlkPUGAaxQaJCcnG4XVxXkyqD9JNlB9mCoMc9bI3mBxyoSYAT5ek8balVJ7n1JwxEDp/MjRXQ9fTcFHclCUnQ3dN8GOSHV7Ri7A98O2UlWcNLjOlNgyPrM1jVKKbxLFEmEalfDbKwTc3aUaRbPgLstZ/d6zgEYSEz8QqRAy5tIkFhllWBhEA0fTdKSoR+0qRVI5iqinSWdMYkpfQT9O4igtXS75mPEu76mY8NGaj8CqBsyZgRdlXlyh0g5poqmtnB1E+egJham3u9G3rlL6zRvS1YKk5YE5BsUBHg6GQGHA3KKekN9aoqfOdfJSlXfli5etuaE04p3F+QeVNbv94lO19vtE0hDreuMBsc0YynvsVU9spAKuRqtVuCF/LzsUUzVjv1ec61ubcJZ47yfm9dVaK/H4ySvjFgn6mkaKLqxP7M8Nm4VwjaAUVTuWfe1bp7CsS0NKojC8cY0cmBy6EQJcb2aV0dtG46PJL1Q8N6+MjyAMNy46n5bt9lahB0zYR3HSYYeU9yl+y7V7W8JRzvCRGIq5p0qNHUz+o0cbSzWKAs6/SYt+hvlQvo5G8IPwrGUv0JUtlT4aYhRhNJEFygQstn5y8ti6bdZNOyp0RDQNC5gEj43W0TGw401u8vQyJfmz994a7/buah4DEs7Xn3W9BxbhMoMye04mfiA4CjRd2O27e3c6zc9eJgh+zKnKAvBfmXXinXFBfrhrOV5V5/T/pQUwIGlkyTivJJ3fVPdAAWIdjXBkcILaD71h6MdUcjTXWwOg7O4Kpj8Kb8jDHM4+Gape0xvArjVoxCLyQYW5vtxNMO0PQBh8LfCEei2UcefFN9TLH4YI6HKQ0ntrp6Wda+qLM9IqaU3egO3LmpBNjON2HMNigYceATr1Z0cVvQNmlW1gWJSStVBMzHvt5AOWGID7xqrik1b/TwMoWVd08FhkeZYZJmSCzb6wCh8jhbdLWw5nzU02AdGbwCNRPumZPMVkZ0yzmWnfIabAGA4M2OwemUMKjv4dUfOTyK2eM/ARNMy+0mURDJUVLtRQ0VoenbxgZJDPZ7HcEkl4z8UFGrssEqPonuwY3M587nINhy/h4xrtBJ7bbPUfPKtBBh4dFaJ5o98UFde18mU4wdb1gO2gRtrfGk09FZxylihEI1CcVL9qO12ckBxltsokv7rkRsabaDxJmW8iKRWrMiF9LFFfDgMo+pNWexlwlj7P7USasFtWRQs0d7Y4H2lTPIwPoEQG1vM+5RRU5+3MCfU7tonTmCtEzk1Q8UFrBHgKYC8d0HsRM8pUltMgAHrdOuGthVqI3qlIDW4wNgChncjFzvQmtyCdgj39xEbfH3cnQ==",
+            "plugins": {},
+            "themes": {
+                "Dark Discord": true,
+                "Glasscord Example Theme": false
+            }
+        },
+        "canary": {},
+        "ptb": {}
+    }
+}

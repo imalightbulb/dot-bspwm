@@ -1,0 +1,9 @@
+2021/08/25-10:04:50.893 15778 Reusing MANIFEST /home/lightbulb/.config/Lightcord/Local Storage/leveldb/MANIFEST-000001
+2021/08/25-10:04:50.893 15778 Recovering log #4
+2021/08/25-10:04:50.920 15778 Reusing old log /home/lightbulb/.config/Lightcord/Local Storage/leveldb/000004.log 
+2021/08/25-11:00:56.323 16598 Level-0 table #7: started
+2021/08/25-11:00:56.466 16598 Level-0 table #7: 15572 bytes OK
+2021/08/25-11:00:56.518 16598 Delete type=0 #4
+2021/08/25-16:51:15.435 16598 Level-0 table #9: started
+2021/08/25-16:51:15.485 16598 Level-0 table #9: 15489 bytes OK
+2021/08/25-16:51:15.564 16598 Delete type=0 #6
