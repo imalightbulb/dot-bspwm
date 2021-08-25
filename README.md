@@ -9,7 +9,14 @@ highly inspired by [LARBS](https://github.com/LukeSmithxyz/voidrice)
 - [iA Writer](https://github.com/iaolo/iA-Fonts)
 - jetbrains mono 
 - nerd font 
+- noto-fonts-sc noto-fonts-tc
 - material icons 
+
+## fcitx
+- fcitx
+- fcitx-googlepinyin
+- fcitx-configtool
+- fcitx-qt5
 
 ## Polybar 
 - config grabbed from [polybar collection](https://github.com/Murzchnvok/polybar-collection) minimal themed bar with some modifications (it was originally a bottom bar)
